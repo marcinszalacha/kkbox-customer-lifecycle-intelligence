@@ -1,0 +1,9 @@
+kaggle
+py7zr
+numpy
+pandas
+matplotlib
+scikit-learn
+tslearn
+lightgbm
+shap

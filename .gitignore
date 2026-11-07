@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Kaggle credentials
+kaggle.json
+access_token
+.kaggle/
+
+# Raw / extracted KKBox data
+*.csv
+*.7z
+*.zip
+data/
+raw/
+kkbox/
+portfolio_outputs/
+
+# Large artifacts
+*.parquet
+*.feather
+*.pkl
+*.joblib
